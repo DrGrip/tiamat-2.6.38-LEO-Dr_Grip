@@ -1,0 +1,5 @@
+kernel/drivers/misc/bma150_spi.ko
+kernel/drivers/net/wireless/bcm4329/bcm4329.ko
+kernel/drivers/net/tun.ko
+kernel/drivers/net/msm_rmnet.ko
+kernel/drivers/staging/zram/zram.ko

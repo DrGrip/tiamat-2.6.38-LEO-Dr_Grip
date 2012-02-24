@@ -1,0 +1,3 @@
+kernel/drivers/net/wireless/bcm4329/bcm4329.ko
+kernel/drivers/net/tun.ko
+kernel/drivers/net/msm_rmnet.ko

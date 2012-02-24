@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/built-in.o :=  /home/knesi/arm-2010q1/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/usb/gadget/built-in.o drivers/usb/gadget/msm72k_udc_htc.o drivers/usb/gadget/android.o drivers/usb/gadget/f_mass_storage.o drivers/usb/gadget/f_mtp.o drivers/usb/gadget/f_accessory.o drivers/usb/gadget/diag.o 

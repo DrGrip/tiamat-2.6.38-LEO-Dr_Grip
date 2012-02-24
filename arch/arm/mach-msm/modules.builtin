@@ -1,0 +1,2 @@
+kernel/arch/arm/mach-msm/htc_headset_mgr.ko
+kernel/arch/arm/mach-msm/htc_headset_gpio.ko
